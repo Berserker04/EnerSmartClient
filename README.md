@@ -11,7 +11,7 @@ Frontend del sistema experto de asesoría en ahorro energético en el hogar.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://tu-repositorio.git
+   descargar y descomprimir el proyecto
    cd ENERSMARTCLIENT
    ```
 
